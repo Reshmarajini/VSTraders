@@ -4,7 +4,7 @@ const Features = () => {
   // You can customize the image URLs based on your needs
   const imageUrls = [
     "/images/features/image.jpg", // Replace with actual image paths
-    "/images/features/logo.png", // Replace with actual image paths
+    "/images/features/Logo.png", // Replace with actual image paths
     "/images/features/image22.png", // Replace with actual image paths
   ];
 

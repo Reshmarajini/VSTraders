@@ -11,7 +11,7 @@ const Footer = () => {
               
                 <Link href="/" className="mb-8 inline-block">
                   <Image
-                    src="/images/logo/logo.png"
+                    src="/images/logo/Logo.png"
                     alt="logo"
                     className="w-full dark:hidden"
                     width={140}
